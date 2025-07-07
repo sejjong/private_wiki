@@ -4,8 +4,11 @@
 
 미션 시작 전 환경 설정
 homebrew install, python3 install, git install
+
 jupyter notebook install, W1M1 수행
+
 pandas 문법에 대해서 잘 모르기 때문에, 공식 문서를 참조하여 문법 공부
+
 W1M1 완료
 
 ## day1 회고
